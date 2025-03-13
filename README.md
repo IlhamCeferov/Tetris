@@ -29,7 +29,7 @@ This game is a Tetris clone implemented in Python using the Pygame library. This
     ```
 3. Install the required dependencies:
     ```sh
-    pip install pygame
+    pip install -r requirements.txt
     ```
 
 ## Usage
